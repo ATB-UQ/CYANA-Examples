@@ -1,0 +1,12 @@
+   1 ALA   PHI    -175.0    75.0 5.00E-01 type=2
+   1 ALA   PSI     -75.0   185.0 5.00E-01 type=2
+   1 ALA   PHI    -255.0   -25.0 5.00E-01 type=2 OR
+   1 ALA   PSI      25.0    55.0 5.00E-01 type=2
+   1 ALA   PHI    -135.0    75.0 5.00E-01 type=2 OR
+   1 ALA   PSI     105.0   185.0 5.00E-01 type=2
+   2 ALA   PHI    -175.0    75.0 5.00E-01 type=2
+   2 ALA   PSI     -75.0   185.0 5.00E-01 type=2
+   2 ALA   PHI    -255.0   -25.0 5.00E-01 type=2 OR
+   2 ALA   PSI      25.0    55.0 5.00E-01 type=2
+   2 ALA   PHI    -135.0    75.0 5.00E-01 type=2 OR
+   2 ALA   PSI     105.0   185.0 5.00E-01 type=2

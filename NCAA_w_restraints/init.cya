@@ -1,0 +1,9 @@
+# This file is read automatically when starting CYANA/DYANA.
+
+name:=Example
+cyanalib
+read lib ./Example.lib append
+read seq Example.seq
+restraints
+
+

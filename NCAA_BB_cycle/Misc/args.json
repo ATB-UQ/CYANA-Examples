@@ -1,0 +1,7 @@
+{
+  "res_id_a": 4,
+  "res_id_b": 6,
+  "linking_bond_a": [11, 12],
+  "linking_bond_b": [15, 16],
+  "atom_mapping": [[11, 16], [12, 15], [13, 14], [10, 17], [27, 21]]
+}

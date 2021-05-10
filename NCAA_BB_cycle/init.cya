@@ -1,0 +1,8 @@
+# This file is read automatically when starting CYANA/DYANA.
+
+name:=Example
+cyanalib
+read seq Example.seq
+
+
+

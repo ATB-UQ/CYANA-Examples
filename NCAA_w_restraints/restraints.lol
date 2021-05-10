@@ -1,0 +1,7 @@
+  2 JQ5N C03     2 JQ5N C04     1.50  1.00E+01
+  2 JQ5N C03     2 JQ5N C05     2.49
+  2 JQ5N C03     2 JQ5N H13     2.16
+  2 JQ5N C03     2 JQ5N H14     2.15
+  2 JQ5N C02     2 JQ5N C04     2.49
+  2 JQ5N H11     2 JQ5N C04     2.15
+  2 JQ5N H12     2 JQ5N C04     2.16
