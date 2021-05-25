@@ -1,9 +1,0 @@
-res_id_a: 1
-res_id_b: 2
-linking_bond_a: [7, 8]
-linking_bond_b: [7, 8]
-atom_mapping:
-  6: 9
-  7: 8
-  8: 7
-  9: 6

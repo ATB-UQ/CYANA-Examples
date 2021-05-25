@@ -1,5 +1,0 @@
-var info echo
-echo:=off
-info:=none
-unset info
-print "    0 stereospecific assignments defined."
