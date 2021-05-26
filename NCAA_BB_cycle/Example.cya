@@ -1,18 +1,15 @@
 # test of automated structure calculation
 
-peaks       :=              # names of NOESY peak lists
+peaks       :=                                              # names of NOESY peak lists
 prot        :=                                              # names of chemical shift lists
-constraints := restraints.upl, restraints.lol
-tolerance   := 0.02,0.01                                     # chemical shift tolerances
-#calibration :=                                                       # NOE calibration parameters
-structures  := 200,20                                                  # number of initial, final structures
-steps       := 15000                                                  # number of torsion angle dynamics steps
-rmsdrange   := 2-11                                                 # residue range for RMSD calculation
-randomseed  := 1434726                                                # random number generator seed
+constraints := restraints.lol, restraints.upl               # restraints .upl and .lol files
+tolerance   := 0.02,0.01                                    # chemical shift tolerances
+#calibration :=                                             # NOE calibration parameters
+structures  := 200,20                                       # number of initial, final structures
+steps       := 15000                                        # number of torsion angle dynamics steps
+rmsdrange   := 2-11                                         # residue range for RMSD calculation
+randomseed  := 4506242                                      # random number generator seed
 
 nproc=24
 
 noeassign peaks=$peaks prot=$prot autoaco
-
-
-
