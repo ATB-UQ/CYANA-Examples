@@ -13,6 +13,3 @@ randomseed  := 4506242                                      # random number gene
 nproc=24
 
 noeassign peaks=$peaks prot=$prot autoaco
-
-
-
