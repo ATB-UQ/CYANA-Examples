@@ -1,9 +1,7 @@
 # This file is read automatically when starting CYANA/DYANA.
 
-name:=Example
-cyanalib
-read lib ./Example.lib append
-read seq Example.seq
-restraints
-
-
+name:=Example                       # Name of the .cya file
+cyanalib                            # Points to the CYANA library 
+read lib ./Example.lib append       # Appends the new CYANA library file
+read seq Example.seq                # Reads the sequence
+restraints                          # Reads the restraints.cya file to generate the restraints.lol/.upl files
