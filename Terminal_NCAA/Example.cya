@@ -13,6 +13,3 @@ randomseed  := 1434726                                       # random number gen
 nproc=24
 
 noeassign peaks=$peaks prot=$prot autoaco
-
-
-
