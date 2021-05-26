@@ -2,3 +2,4 @@ ALA     1
 JQ5N    2
 ALA     3
 link C03 2 C04 2
+# link statment joining two carbons in the same residue to create an aliphatic ring
