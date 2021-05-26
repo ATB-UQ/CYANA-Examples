@@ -8,7 +8,7 @@ tolerance   := 0.02,0.01                                     # chemical shift to
 structures  := 200,20                                        # number of initial, final structures
 steps       := 15000                                         # number of torsion angle dynamics steps
 rmsdrange   := 2-11                                          # residue range for RMSD calculation
-randomseed  := 1434726                                       # random number generator seed
+randomseed  := 6039504                                       # random number generator seed
 
 nproc=24
 
