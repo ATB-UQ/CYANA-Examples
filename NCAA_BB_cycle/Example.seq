@@ -6,3 +6,4 @@ ALA     5
 ALA     6
 ALA     7
 link N 1 C 7
+# link statment joining the N-terminal of the first residue to the C-terminal of the last residue to cyclise the peptide
