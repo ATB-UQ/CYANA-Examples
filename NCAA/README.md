@@ -16,6 +16,6 @@ Files must be located in the same file when CYANA starts
 
   - init.cya
       - Initialisation file
-      - Use command 'ead lib./Example.lib append' to append residue library file Example.lib to the standard CYANA library file 
+      - Use command 'read lib./Example.lib append' to append residue library file Example.lib to the standard CYANA library file 
       
     
