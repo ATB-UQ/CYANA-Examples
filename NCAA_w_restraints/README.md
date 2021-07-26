@@ -1,5 +1,5 @@
 # CYANA-Examples
-Example use of ATB CYANA library files for a non-canonical amino acid containing tripeptide 
+Example use of ATB CYANA library files for a tripeptide containing a non-canonical amino acid with an aliphatic ring
 
 Files must be located in the same file when CYANA starts
 
