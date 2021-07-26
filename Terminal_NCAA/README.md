@@ -20,4 +20,5 @@ Files must be located in the same file when CYANA starts
       - Use command 'read lib./Example.lib append' to append residue library file Example.lib to the standard CYANA library file 
 
 C-terminal amino acid library file was accessed from the ATB https://atb.uq.edu.au/molecule.py?molid=714149
-N-terminal amino acid library file was accessed from the ATB 
+
+N-terminal amino acid library file was accessed from the ATB https://atb.uq.edu.au/molecule.py?molid=543829
