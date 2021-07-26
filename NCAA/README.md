@@ -18,4 +18,4 @@ Files must be located in the same file when CYANA starts
       - Initialisation file
       - Use command 'read lib./Example.lib append' to append residue library file Example.lib to the standard CYANA library file 
       
-    
+Non-canonical amino acid library file accessed from the ATB https://atb.uq.edu.au/molecule.py?molid=516192 
