@@ -2,5 +2,4 @@
 
 name:=Example                       # Name of the .cya file
 cyanalib                            # Points to the CYANA library 
-read lib ./Example.lib append       # Appends the new CYANA library file
 read seq Example.seq                # Reads the sequence
