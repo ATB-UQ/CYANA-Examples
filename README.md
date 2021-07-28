@@ -20,3 +20,5 @@ NCAA_BB_cycle
 Overview of CYANA: http://www.nmr2.buffalo.edu/nesg.wiki/CYANA#CYANA_3.0
 
 CYANA reference manual: http://www.cyana.org/wiki/index.php/CYANA_3.0_Reference_Manual
+
+CYLIB reference: Yilmaz EM, Güntert P. NMR structure calculation for all small molecule ligands and non-standard residues from the PDB Chemical Component Dictionary. J Biomol NMR. 2015 Sep;63(1):21-37. doi: 10.1007/s10858-015-9959-y. Epub 2015 Jun 30. PMID: 26123317.
