@@ -16,3 +16,7 @@ Terminal_NCAA
 NCAA_BB_cycle
 
 - Files required for the cyclisation of a peptide through a backbone peptide bond
+
+Overview of CYANA: http://www.nmr2.buffalo.edu/nesg.wiki/CYANA#CYANA_3.0
+
+CYANA reference manual: http://www.cyana.org/wiki/index.php/CYANA_3.0_Reference_Manual
