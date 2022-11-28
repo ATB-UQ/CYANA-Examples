@@ -17,6 +17,8 @@ NCAA_BB_cycle
 
 - Files required for the cyclisation of a peptide through a backbone peptide bond
 
+CCP NMR Instructions: [Instruction-CCPNMR_V2-ArgMe-example.pdf](./Instruction-CCPNMR_V2-ArgMe-example.pdf)
+
 Overview of CYANA: http://www.nmr2.buffalo.edu/nesg.wiki/CYANA#CYANA_3.0
 
 CYANA reference manual: http://www.cyana.org/wiki/index.php/CYANA_3.0_Reference_Manual
